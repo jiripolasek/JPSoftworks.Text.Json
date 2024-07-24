@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35103.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JPSoftworks.Text.Json", "src\JPSoftworks.Text.Json\JPSoftworks.Text.Json.csproj", "{0799B86A-8581-47B3-B7CF-CF7D42BB8100}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JPSoftworks.Text.Json.Tests", "test\JPSoftworks.Text.Json.Tests\JPSoftworks.Text.Json.Tests.csproj", "{CA2395C3-1FF0-4CB4-8CBD-E421B72A15FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0799B86A-8581-47B3-B7CF-CF7D42BB8100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0799B86A-8581-47B3-B7CF-CF7D42BB8100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0799B86A-8581-47B3-B7CF-CF7D42BB8100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0799B86A-8581-47B3-B7CF-CF7D42BB8100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA2395C3-1FF0-4CB4-8CBD-E421B72A15FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA2395C3-1FF0-4CB4-8CBD-E421B72A15FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA2395C3-1FF0-4CB4-8CBD-E421B72A15FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA2395C3-1FF0-4CB4-8CBD-E421B72A15FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAC60ADC-F1BA-486E-9E51-76A98ECE55F8}
+	EndGlobalSection
+EndGlobal
